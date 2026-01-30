@@ -65,7 +65,7 @@ Automate faceless video production across multiple niches with AI-powered conten
 
 Next-generation social media management powered by AI. Schedule, analyze, and optimize your content across all major platforms.
 
-[![Coming Soon](https://img.shields.io/badge/Coming-Q2%202025-EF4444?style=flat-square)](https://spreevio.com)
+[![Coming Soon](https://img.shields.io/badge/Coming-Q2%202026-EF4444?style=flat-square)](https://spreevio.com)
 
 </td>
 <td width="33%" valign="top">
@@ -77,7 +77,7 @@ Next-generation social media management powered by AI. Schedule, analyze, and op
 
 The complete operating system for content creators. Manage your entire digital empire from one unified dashboard.
 
-[![In Development](https://img.shields.io/badge/Target-Q4%202025-06B6D4?style=flat-square)](https://viralium.io)
+[![In Development](https://img.shields.io/badge/Target-Q4%202026-06B6D4?style=flat-square)](https://viralium.io)
 
 </td>
 </tr>
@@ -223,7 +223,7 @@ Interested in working with us? Check out our [Careers Page](https://omniflowvent
 
 - **Entity**: OmniFlow Ventures LLC
 - **Jurisdiction**: Wyoming, USA
-- **Founded**: 2025
+- **Founded**: January 15, 2026
 
 All product repositories are **proprietary** and protected under applicable intellectual property laws. Unauthorized use, reproduction, or distribution is strictly prohibited.
 
@@ -241,6 +241,6 @@ All product repositories are **proprietary** and protected under applicable inte
 
 ![OmniFlow Ventures](https://img.shields.io/badge/OmniFlow-Ventures-4F46E5?style=for-the-badge)
 
-<sub>© 2025 OmniFlow Ventures LLC. All Rights Reserved.</sub>
+<sub>© 2026 OmniFlow Ventures LLC. All Rights Reserved.</sub>
 
 </div>
