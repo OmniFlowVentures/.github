@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/OmniFlowVentures/omniflow-website/main/public/images/logo/logo-full.svg" alt="OmniFlow Ventures Logo" width="400" />
+<img src="https://raw.githubusercontent.com/OmniFlowVentures/.github/main/assets/logo-full.svg" alt="OmniFlow Ventures Logo" width="400" />
 
 <br />
 
